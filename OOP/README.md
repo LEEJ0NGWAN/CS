@@ -1,4 +1,6 @@
-# OOP ?
+# OOP?
+
+Object Oriented Programming (객체 지향 프로그래밍)
 
 프로그래밍 방법 중 하나
 
