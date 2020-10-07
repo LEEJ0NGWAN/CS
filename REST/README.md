@@ -201,7 +201,7 @@
 
 1. 슬래쉬(/)는 계층 구조로 이용
 
-    e.g., http://api.host.com/animals/dogs/bulldogs
+    e.g., /animals/dogs/bulldogs
 
 2. 슬래쉬(/)는 마지막 문자 X
 3. 하이픈(-)은 가독성 증가를 위해 사용
