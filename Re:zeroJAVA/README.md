@@ -1,5 +1,7 @@
 [돌아가기](https://github.com/LEEJ0NGWAN/CS)
 
+[日本語で見る](./README-jp.md)
+
 # Re:제로부터 시작하는 JAVA 생활
 
 자바를 처음부터 복습하기 위한 구간
