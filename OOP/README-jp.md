@@ -1,3 +1,5 @@
+[한국어로 보기](./README.md)
+
 # オブジェクト指向プログラミング
 Object Oriented Programming
 
