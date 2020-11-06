@@ -1,3 +1,4 @@
+[日本語で見る](./README-jp.md)
 # CS 기초
 - [객체지향프로그래밍](./OOP/README.md)
 - [함수형프로그래밍](./FunctionalProgramming/README.md)
