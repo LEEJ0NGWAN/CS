@@ -1,4 +1,4 @@
-[돌아가기](https://github.com/LEEJ0NGWAN/CS#MVC)
+[돌아가기](../README.md#MVC)
 
 # MVC pattern
 
