@@ -97,17 +97,28 @@ Object Oriented Programming
 
 ## 3. 多態性(Polymorphism)
 
-"**状況によって色々な意味に解析すること"**
+**"同じ資料型に様々なオブジェクトを代入して多様な結果を出せる性質"**
 
-概念的に同じ(類似な)関数に同じ名前をつけることでコードをシンプルにまとめる
+→ ある役割(インタフェース、スーパークラス)について多様な具現(クラスおよびオブジェクト)が存在すること
 
-### Overriding
+e.g.,
 
-既存クラスから相続したメソッドを改めて定義すること
+```jsx
+Hamburger burgerA = new BigMac();
+Hamburger burgerB = new Whopper();
+```
 
-### Overloading
+### Overriding & Overloading
 
-名前は同じだけど、入力する引数タイプと個数を別々に設定し色々な関数を呼び出すこと
+多態性実現を助ける技術
+
+- Overriding
+
+    既存の定義したメソッドを再定義すること
+
+- Overloading
+
+    同じ名を持ってるけど入力パラメーターのタイプと数を違く設定して関数を呼び出すこと
 
 # 抽象化(Abstraction)
 
