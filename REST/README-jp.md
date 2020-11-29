@@ -1,4 +1,4 @@
-[戻る](../README-jp.md)
+[戻る](../README-jp.md#REST)
 
 [한국어로 보기](./README.md)
 
