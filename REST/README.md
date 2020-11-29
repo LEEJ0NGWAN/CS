@@ -1,6 +1,6 @@
 [돌아가기](https://github.com/LEEJ0NGWAN/CS)
 
-[日本語で見る](./README.md)
+[日本語で見る](./README-jp.md)
 
 # REST?
 
