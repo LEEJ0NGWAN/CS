@@ -11,3 +11,4 @@
 - [변수](1.variable.md)
 - [연산](2.operator.md)
 - [조건문과 반복문](3.conditional&looping.md)
+- [배열](4.array.md)
