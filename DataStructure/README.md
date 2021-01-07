@@ -2,5 +2,5 @@
 
 # 목록
 - [배열 vs 리스트](./arrayVSlist.md)
-
-
+- [스택과 큐](./StackQueue.md)
+- [트리](./Tree.md)
