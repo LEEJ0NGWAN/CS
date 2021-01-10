@@ -6,3 +6,4 @@
 - [2.컨테이너](./2.Container.md)
 - [3.싱글톤](./3.Singleton.md)
 - [4.컴포넌트스캔](./4.ComponentScan.md)
+- [5.의존관계주입방법](./5.DI.md)
