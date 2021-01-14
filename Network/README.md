@@ -3,3 +3,4 @@
 # 목록
 - [HTTP](./HTTP.md)
 - [HTTPS](./HTTPS.md)
+- [HTTP와 HTTPS](./HTTPHTTPS.md)
