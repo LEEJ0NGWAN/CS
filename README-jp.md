@@ -4,4 +4,5 @@
 
 - [REST](./REST/README-jp.md)
 
-## [Re:ゼロから始まるJAVA生活](./Re:zeroJAVA/README-jp.md)
+# [Re:ゼロから始まるJAVA生活](./Re:zeroJAVA/README-jp.md)
+- [Java紹介](./Re:zeroJAVA/0.Java-jp.md)
