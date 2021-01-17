@@ -1,5 +1,7 @@
 [돌아가기](https://github.com/LEEJ0NGWAN/CS)
 
+[日本語で見る](./README-jp.md)
+
 # TDD?
 
 Test-Driven Development (테스트 주도형 개발)
