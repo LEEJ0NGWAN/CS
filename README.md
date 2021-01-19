@@ -25,8 +25,8 @@
 - [변수](./Re:zeroJAVA/1.variable.md)
 - [연산](./Re:zeroJAVA/2.operator.md)
 - [조건문과 반복문](./Re:zeroJAVA/3.conditional&looping.md)
-- [배열](./Re:zeroJAVA/array.md)
-- [메모리](./Re:zeroJAVA/memory.md)
+- [배열](./Re:zeroJAVA/4.array.md)
+- [메모리](./Re:zeroJAVA/5.memory.md)
 
 # [Spring](https://github.com/LEEJ0NGWAN/CS/tree/master/Spring)
 - [스프링이란?](./Spring/0.Spring.md)
