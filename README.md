@@ -36,4 +36,4 @@
 - [싱글톤](./Spring/3.Singleton.md)
 - [컴포넌트 스캔](./Spring/4.ComponentScan.md)
 - [의존관계 주입 방법](./Spring/5.DI.md)
-
+- [빈 생명주기 콜백](./Spring/6.CallBack.md)
