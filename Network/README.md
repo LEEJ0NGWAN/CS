@@ -7,3 +7,4 @@
 - [TCP](./TCP.md)
 - [UDP](./UDP.md)
 - [웹 통신 과정](./WebCommunication.md)
+- [DNS](./DNS.md)
