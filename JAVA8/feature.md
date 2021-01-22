@@ -14,10 +14,10 @@
 
 ```jsx
 public interface Animal {
-		void run();
-		static void cry() {
-				System.out.println("YEE");
-		}
+	void run();
+	static void cry() {
+		System.out.println("YEE");
+	}
 }
 ```
 
@@ -37,14 +37,14 @@ Animal.cry(); // YEE
 
 ```jsx
 Product[] result = Arrays.stream(products)
-												.filter(product->Product.isValid(product))
-												.toArray(size->new Product[size]);
+			.filter(product->Product.isValid(product))
+			.toArray(size->new Product[size]);
 ```
 
 ```jsx
 Product[] result = Arrays.stream(products)
-												.filter(Product::isValid)
-												.toArray(size->new Product[size]);
+			.filter(Product::isValid)
+			.toArray(size->new Product[size]);
 ```
 
 ### 생성자
@@ -53,8 +53,8 @@ Product[] result = Arrays.stream(products)
 
 ```jsx
 Product[] result = Arrays.stream(products)
-												.filter(Product::isValid)
-												.toArray(Product::new);
+			.filter(Product::isValid)
+			.toArray(Product::new);
 ```
 
 # Optional
@@ -75,9 +75,9 @@ List<Integer> intListOpt = getIntList().orElseGet(() -> new ArrayList<>());
 ```jsx
 Product product = getProduct();
 if (product != null) {
-		String isbn = product.getIsbn();
-		if (isbn != null)
-				return isbn;
+	String isbn = product.getIsbn();
+	if (isbn != null)
+		return isbn;
 }
 return "not found";
 ```
