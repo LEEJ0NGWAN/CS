@@ -7,4 +7,4 @@
 Javaを始めてから復習するための区間
 
 ## リスト
-- [Java紹介](0.Java-jp.md)
+- [Java紹介](Java-jp.md)
