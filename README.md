@@ -29,6 +29,7 @@
 - [조건문과 반복문](./JAVA/conditional&looping.md)
 - [배열](./JAVA/array.md)
 - [메모리](./JAVA/memory.md)
+- [enum](./JAVA/enum.md)
 
 # [Java8](https://github.com/LEEJ0NGWAN/CS/tree/master/JAVA8)
 - [새로운 특징](./JAVA8/feature.md)
