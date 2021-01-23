@@ -1,6 +1,6 @@
 [돌아가기](README.md)
 
-[日本語で見る](./0.Java-jp.md)
+[日本語で見る](./Java-jp.md)
 
 # Java
 
