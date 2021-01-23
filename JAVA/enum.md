@@ -61,7 +61,7 @@ GenderType gender = GenderType.Female; // 힙 영역에 Male, Female 인스턴�
 열거 상수의 String 파싱을 리턴
 
 ```jsx
-GenderType.Male.name();
+GenderType.Male.name(); // Male
 ```
 
 ### ordinal(): int
@@ -69,7 +69,7 @@ GenderType.Male.name();
 열거 상수의 위치 인덱스 값 리턴
 
 ```jsx
-GenderType.Female.ordinal();
+GenderType.Female.ordinal(); // 1
 ```
 
 ### compareTo(): int
@@ -159,5 +159,5 @@ public enum Gender {
 }
 
 Gender.MALE.print();    // 나는 남자야
-Gender.FEMALE.print();  // 나는 여자
+Gender.FEMALE.print();  // 난 여자
 ```
