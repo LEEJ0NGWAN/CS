@@ -13,3 +13,4 @@
 - [조건문과 반복문](conditional&looping.md)
 - [배열](array.md)
 - [메모리](memory.md)
+- [enum](enum.md)
