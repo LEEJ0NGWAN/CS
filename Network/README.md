@@ -8,3 +8,4 @@
 - [UDP](./UDP.md)
 - [웹 통신 과정](./WebCommunication.md)
 - [DNS](./DNS.md)
+- [DNS 라운드 로빈](./DNSRoundRobin.md)
