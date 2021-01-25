@@ -21,6 +21,7 @@
 - [UDP](./Network/UDP.md)
 - [웹 통신 과정](./Network/WebCommunication.md)
 - [DNS](./Network/DNS.md)
+- [DNS 라운드 로빈](./Network/DNSRoundRobin.md)
 
 # [JAVA](https://github.com/LEEJ0NGWAN/CS/tree/master/JAVA)
 - [자바소개](./JAVA/Java.md)
