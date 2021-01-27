@@ -23,6 +23,9 @@
 - [DNS](./Network/DNS.md)
 - [DNS 라운드 로빈](./Network/DNSRoundRobin.md)
 
+# [OS](https://github.com/LEEJ0NGWAN/CS/tree/master/OS)
+- [프로세스와 쓰레드](./OS/ProcessThread.md)
+
 # [JAVA](https://github.com/LEEJ0NGWAN/CS/tree/master/JAVA)
 - [자바소개](./JAVA/Java.md)
 - [변수](./JAVA/variable.md)
