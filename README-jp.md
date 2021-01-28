@@ -6,4 +6,4 @@
 - [TDD](./TDD/README-jp.md)
 
 # [Re:ゼロから始まるJAVA生活](./JAVA/README-jp.md)
-- [Java紹介](./Re:zeroJAVA/0.Java-jp.md)
+- [Java紹介](./JAVA/Java-jp.md)
