@@ -14,3 +14,4 @@
 - [배열](array.md)
 - [메모리](memory.md)
 - [enum](enum.md)
+- [다형성](polymorphism.md)

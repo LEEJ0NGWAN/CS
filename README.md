@@ -34,6 +34,7 @@
 - [배열](./JAVA/array.md)
 - [메모리](./JAVA/memory.md)
 - [enum](./JAVA/enum.md)
+- [다형성](./JAVA/polymorphism.md)
 
 # [Java8](https://github.com/LEEJ0NGWAN/CS/tree/master/JAVA8)
 - [새로운 특징](./JAVA8/feature.md)
