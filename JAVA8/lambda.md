@@ -119,7 +119,7 @@ public class Calculator {
 Consumer<int[]> arrInitializer = 
 	arr->{for(int i=0, l=arr.length; i<l; i++)arr[i]=0;};
 
-arrInitializer.accept(
+arrInitializer.accept(new int[]{1,2,3,4,5}); // 0,0,0,0,0
 ```
 
 ### Function<T, R>
