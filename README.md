@@ -38,6 +38,7 @@
 
 # [Java8](https://github.com/LEEJ0NGWAN/CS/tree/master/JAVA8)
 - [새로운 특징](./JAVA8/feature.md)
+- [람다와 함수형 인터페이스](./JAVA8/lambda.md)
 
 # [Spring](https://github.com/LEEJ0NGWAN/CS/tree/master/Spring)
 - [스프링이란?](./Spring/Spring.md)
