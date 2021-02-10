@@ -27,6 +27,7 @@
 - [프로세스와 쓰레드](./OS/ProcessThread.md)
 - [멀티 쓰레드](./OS/multithread.md)
 - [교착 상태](./OS/deadlock.md)
+- [뮤텍스와 세마포어](./OS/mutexsemaphore.md)
 
 # [JAVA](https://github.com/LEEJ0NGWAN/CS/tree/master/JAVA)
 - [자바소개](./JAVA/Java.md)
