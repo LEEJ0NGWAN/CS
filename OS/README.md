@@ -6,4 +6,5 @@
 - [교착 상태](./deadlock.md)
 - [뮤텍스와 세마포어](./mutexsemaphore.md)
 - [스케줄러](./scheduler.md)
+- [CPU 스케줄러](./cpuScheduler.md)
 
