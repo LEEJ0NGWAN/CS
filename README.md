@@ -46,6 +46,7 @@
 - [추상클래스와 인터페이스](./JAVA/abstractandinterface.md)
 - [컬렉션](./JAVA/collection.md)
 - [예외처리](./JAVA/exception.md)
+- [헷갈리는 부분 정리](./JAVA/etc.md)
 
 # [Java8](https://github.com/LEEJ0NGWAN/CS/tree/master/JAVA8)
 - [새로운 특징](./JAVA8/feature.md)

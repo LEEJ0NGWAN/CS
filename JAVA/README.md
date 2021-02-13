@@ -21,3 +21,4 @@
 - [추상클래스와 인터페이스](abstractandinterface.md)
 - [컬렉션](collection.md)
 - [예외처리](exception.md)
+- [헷갈리는 부분 정리](etc.md)
