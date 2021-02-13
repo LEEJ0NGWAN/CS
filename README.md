@@ -29,6 +29,7 @@
 - [교착 상태](./OS/deadlock.md)
 - [뮤텍스와 세마포어](./OS/mutexsemaphore.md)
 - [스케줄러](./OS/scheduler.md)
+- [CPU 스케줄러](./OS/cpuScheduler.md)
 
 # [JAVA](https://github.com/LEEJ0NGWAN/CS/tree/master/JAVA)
 - [자바소개](./JAVA/Java.md)
