@@ -39,6 +39,7 @@
 - [배열](./JAVA/array.md)
 - [입출력](./JAVA/io.md)
 - [메모리](./JAVA/memory.md)
+- [클래스](./JAVA/class.md)
 - [enum](./JAVA/enum.md)
 - [다형성](./JAVA/polymorphism.md)
 
