@@ -16,4 +16,5 @@
 - [메모리](memory.md)
 - [클래스](class.md)
 - [enum](enum.md)
+- [상속](inheritance.md)
 - [다형성](polymorphism.md)
