@@ -41,6 +41,7 @@
 - [메모리](./JAVA/memory.md)
 - [클래스](./JAVA/class.md)
 - [enum](./JAVA/enum.md)
+- [상속](./JAVA/inheritance.md)
 - [다형성](./JAVA/polymorphism.md)
 
 # [Java8](https://github.com/LEEJ0NGWAN/CS/tree/master/JAVA8)
