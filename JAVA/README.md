@@ -14,5 +14,6 @@
 - [배열](array.md)
 - [입출력](io.md)
 - [메모리](memory.md)
+- [클래스](class.md)
 - [enum](enum.md)
 - [다형성](polymorphism.md)
