@@ -1,3 +1,5 @@
+[돌아가기](./README.md)
+
 # Concurrent vs Parallel
 
 ### Concurrent
