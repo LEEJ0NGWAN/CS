@@ -31,6 +31,9 @@
 - [스케줄러](./OS/scheduler.md)
 - [CPU 스케줄러](./OS/cpuScheduler.md)
 
+# [DB](https://github.com/LEEJ0NGWAN/CS/tree/master/DB)
+- [DB 면접 개요](./DB/README.md)
+
 # [JAVA](https://github.com/LEEJ0NGWAN/CS/tree/master/JAVA)
 - [자바소개](./JAVA/Java.md)
 - [변수](./JAVA/variable.md)
