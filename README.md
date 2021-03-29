@@ -51,6 +51,11 @@
 - [예외처리](./JAVA/exception.md)
 - [쓰레드](./JAVA/thread.md)
 - [헷갈리는 부분 정리](./JAVA/etc.md)
+- [네트워크](./JAVA/network.md)
+- [MVC](./JAVA/mvc.md)
+- [xmlparsing](./JAVA/xmlparsing.md)
+- [servlet과jsp](./JAVA/servletjsp.md)
+
 
 # [Java8](https://github.com/LEEJ0NGWAN/CS/tree/master/JAVA8)
 - [새로운 특징](./JAVA8/feature.md)
