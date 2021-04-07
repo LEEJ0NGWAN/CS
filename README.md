@@ -32,7 +32,9 @@
 - [CPU 스케줄러](./OS/cpuScheduler.md)
 
 # [DB](https://github.com/LEEJ0NGWAN/CS/tree/master/DB)
-- [DB 면접 개요](./DB/README.md)
+- [DB 면접](./DB/db.md)
+- [개요](./DB/intro.md)
+- [join과 subquery](./DB/joinsubquery.md)
 
 # [JAVA](https://github.com/LEEJ0NGWAN/CS/tree/master/JAVA)
 - [자바소개](./JAVA/Java.md)
