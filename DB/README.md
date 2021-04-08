@@ -3,5 +3,6 @@
 # 목록
 - [DB 면접](./db.md)
 - [개요](./intro.md)
+- [sql 기본](./sql.md)
 - [join과 subquery](./joinsubquery.md)
 
