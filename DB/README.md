@@ -5,4 +5,6 @@
 - [개요](./intro.md)
 - [sql 기본](./sql.md)
 - [join과 subquery](./joinsubquery.md)
+- [모델링](./modeling.md)
+- [정규화](./normalization.md)
 
