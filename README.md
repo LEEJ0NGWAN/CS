@@ -34,6 +34,7 @@
 # [DB](https://github.com/LEEJ0NGWAN/CS/tree/master/DB)
 - [DB 면접](./DB/db.md)
 - [개요](./DB/intro.md)
+- [sql 기본](./DB/sql.md)
 - [join과 subquery](./DB/joinsubquery.md)
 
 # [JAVA](https://github.com/LEEJ0NGWAN/CS/tree/master/JAVA)
