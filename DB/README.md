@@ -7,4 +7,5 @@
 - [join과 subquery](./joinsubquery.md)
 - [모델링](./modeling.md)
 - [정규화](./normalization.md)
+- [인덱스](./index.md)
 

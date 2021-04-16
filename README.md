@@ -38,6 +38,7 @@
 - [join과 subquery](./DB/joinsubquery.md)
 - [모델링](./DB/modeling.md)
 - [정규화](./DB/normalization.md)
+- [인덱스](./DB/index.md)
 
 # [JAVA](https://github.com/LEEJ0NGWAN/CS/tree/master/JAVA)
 - [자바소개](./JAVA/Java.md)
