@@ -67,3 +67,8 @@
 - [새로운 특징](./JAVA8/feature.md)
 - [람다와 함수형 인터페이스](./JAVA8/lambda.md)
 
+# [수학](https://github.com/LEEJ0NGWAN/CS/tree/master/MATH)
+- [유클리드 호제법](./MATH/euclidean.md)
+- [페르마 소 정리](./MATH/perma.md)
+- [나머지 정리](./MATH/rest.md)
+
