@@ -1,10 +1,11 @@
 [日本語で見る](./README-jp.md)
-# CS 기초
+# 기타
 - [객체지향프로그래밍](./OOP/README.md)
 - [함수형프로그래밍](./FunctionalProgramming/README.md)
 - [REST](./REST/README.md)
 - [TDD](./TDD/README.md)
 - [MVC](./MVC/README.md)
+- [AOP](./aop.md)
 
 # [자료구조](https://github.com/LEEJ0NGWAN/CS/tree/master/DataStructure)
 - [배열vs리스트](./DataStructure/arrayVSlist.md)
